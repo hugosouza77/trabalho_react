@@ -1,0 +1,20 @@
+.contact{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+.tuezin{
+    width: 500px;
+    height: 450px;
+    top: 50%;
+    left: 50%;
+}
+.artista{
+   
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 650px;
+}

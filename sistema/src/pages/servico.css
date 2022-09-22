@@ -1,0 +1,18 @@
+.um{
+    text-align: center;
+}
+
+form h1{
+    color: white;
+}
+.form{
+position: relative;
+align-items: center;
+left: 45%;
+}
+.mar{
+    position: relative;
+align-items: center;
+    left: 35%;
+    color: red;
+}

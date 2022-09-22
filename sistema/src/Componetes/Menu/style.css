@@ -1,0 +1,22 @@
+.logo{
+    margin-left: 40px;
+    
+    color: red;
+   
+   
+}
+.menu ul{
+    display: flex ;
+    gap: 100px;
+    margin-right: 200px;
+    margin-left: 10px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: red;
+}
+header{
+   background-color: #0005;
+  
+   height: 100px;
+}
